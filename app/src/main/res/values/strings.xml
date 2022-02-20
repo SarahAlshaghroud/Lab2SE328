@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="Positions">
+        <item>Employee</item>
+        <item>Manager</item>
+        <item>Trainee</item>
+    </string-array>
+</resources>
